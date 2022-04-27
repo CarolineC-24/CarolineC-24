@@ -22,12 +22,14 @@ Throughout the process of writing blogs for GitHub I had a hard time with the de
 ### Twitter
 Using Twitter throughout the course was so much better than doing a discussion board. It was way more personable to be able to match a name with a face when interacting with each other's tweets. I liked how easily accessible it was to just tweet from my phone rather than having to login to Scholar for a formal discussion board. It was also a nice recap of that week’s class discussions or assignments reinstating the purpose for that week.
 
+![my twitter account](https://carolinec-24.github.io/CarolineC-24/images/twitter.jpg)
+
 ### Grant project
 The most daunting part of the course this semester was the Grant Project. Although intimidating, it ended up being my favorite assignment. I loved how we were able to choose our own topic and for the most part, had free reign. I chose to propose an interactive timeline that goes through the history of D.A.R.E. (drug abuse resistance education) because I thought it would be intriguing as the war on drugs is still relevant to this day.
 
 Receiving feedback throughout the process was great to make sure I was on the right track. I found the resume portion to be quite helpful when curating my own for summer internship applications. I’m currently in the interview process to hopefully secure a marketing internship thanks to the skills I’ve learned this course.
 
-![grant project abstract](https://github.com/CarolineC-24/CarolineC-24/blob/main/images/abstract.jpg)
+![grant project abstract](https://carolinec-24.github.io/CarolineC-24/images/abstract.jpg)
 
 ### Conclusion
 The class started out as a requirement in order to obtain my degree but quickly ended up being the most interesting writing class I've ever taken. I loved how everything had a real-world example and how we could easily apply much of what we learned in our own future endevours. Since taking the course, I have learned that digital humanities is not bound by one definition, it can mean lots of different things which is also part of the fun.
