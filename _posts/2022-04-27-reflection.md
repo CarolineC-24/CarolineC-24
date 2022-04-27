@@ -27,5 +27,7 @@ The most daunting part of the course this semester was the Grant Project. Althou
 
 Receiving feedback throughout the process was great to make sure I was on the right track. I found the resume portion to be quite helpful when curating my own for summer internship applications. I’m currently in the interview process to hopefully secure a marketing internship thanks to the skills I’ve learned this course.
 
+![grant project abstract](https://github.com/CarolineC-24/CarolineC-24/blob/main/images/abstract.jpg)
+
 ### Conclusion
 The class started out as a requirement in order to obtain my degree but quickly ended up being the most interesting writing class I've ever taken. I loved how everything had a real-world example and how we could easily apply much of what we learned in our own future endevours. Since taking the course, I have learned that digital humanities is not bound by one definition, it can mean lots of different things which is also part of the fun.
